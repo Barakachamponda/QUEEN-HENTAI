@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [baraka
+global.owner = [baraka.
   ['+25545379394', 'Dinuwa Official²⁰²³', true],
   ['+25545379394', 'Dinuwa Official²⁰²³', true], 
   [''] 
